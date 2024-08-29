@@ -1,3 +1,3 @@
 # IBM_coursework
 
-This repository includes a jupyter notebook "DataScienceEcosystem.ipynb" which is a part of course work of "Tools for Data Science" course from "IBM Data Science" learning path on Coursera.
+This repository includes jupyter notebooks which are a part of course work of specialization "IBM Data Science" from IBM on Coursera.
